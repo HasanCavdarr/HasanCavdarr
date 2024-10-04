@@ -2,7 +2,7 @@
 ![snake gif](https://github.com/HasanCavdarr/HasanCavdarr/blob/output/github-contribution-grid-snake.gif)
 
 <h1 align="center">I'm Hasan Çavdar</h1>
-<h3 align="center">As a first-year computer engineering student at Kocaeli Health and Technology University, I possess a profound interest in the realms of cybersecurity and software development.</h3>
+<h3 align="center">As a second-year computer engineering student at Kocaeli Health and Technology University, I possess a profound interest in the realms of cybersecurity and software development.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
